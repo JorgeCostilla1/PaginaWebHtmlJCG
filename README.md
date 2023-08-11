@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 779a9bb04c11537a5c7bc9578df564b500972b23
+# Segunda versión de mi página web
+## Despliegue 
+esta página web está desplegada en una máquina virtual de oracle cloud. Para poder desplegar la página web se hizo uso de apache.
